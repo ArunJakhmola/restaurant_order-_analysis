@@ -6,6 +6,8 @@
 
 The **Restaurant Order Analysis** project aims to analyze order data to identify the most and least popular menu items and types of cuisine. The analysis objectives and their corresponding queries are outlined below.
 
+**You can access the database by running "create_restaurant_db.sql" file from repository and solved queries are available in "SQL Queries Restraunt Order Analysis.sql" file**
+
 ## Objectives and Queries
 
 ### Objective 1: Explore the Menu Items Table
